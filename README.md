@@ -1,6 +1,6 @@
 # Resolving Token-Space Gradient Conflicts: Token Space Manipulation for Transformer-Based Multi-Task Learning [ICCV 2025]
 
-**Official PyTorch implementation of [*Resolving Token-Space Gradient Conflicts: Token Space Manipulation for Transformer-Based Multi-Task Learning*] [ICCV 2025].**
+**Official PyTorch implementation of [*Resolving Token-Space Gradient Conflicts: Token Space Manipulation for Transformer-Based Multi-Task Learning*](https://arxiv.org/abs/2507.07485) [ICCV 2025].**
 
 Wooseong Jeong & Kuk-Jin Yoon, Korea Advanced Institute of Science and Technology (KAIST)
 
